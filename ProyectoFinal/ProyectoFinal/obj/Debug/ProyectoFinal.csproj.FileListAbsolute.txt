@@ -1,0 +1,42 @@
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.AddStudentForm.resources
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.AddTeacherForm.resources
+C:\Users\Fabio Rios\source\repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.ResolveComReference.cache
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.ResolveComReference.cache
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.AddStudentForm.resources
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.AddTeacherForm.resources
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Fabio Rios\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.ResolveComReference.cache
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.AddStudentForm.resources
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.AddTeacherForm.resources
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\CCBB\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
